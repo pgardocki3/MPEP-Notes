@@ -24,7 +24,7 @@
 		* AIA - prior art if preceded date of filing or more than 1 year before filing 
 	* ### B. Swearing Back (pre-AIA(a) & (e))
 		* if applicant wants to overcome a prior art by showing that invention was dated before said prior art, affidavit evidence is filed
-			* done on claim-by-claim basis as each can have its own invention data and effecitve filing date
+			* done on claim-by-claim basis as each can have its own invention data and EFD
 	* ### C. Test
 		* Determine if something is prior art
 			* 1. determine invention/filing date for the claims
