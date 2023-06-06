@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "2dfac9c57f00f199",
+    "type": "split",
+    "children": [
+      {
+        "id": "24059098320499b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b870761b2fe18799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MPEP 700.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7123a70e2bb06475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e90465f2d1f56a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3498781c6d552085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3780946ee2d39f95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ae8162bc77d4284",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48d86861c9b4b406",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a468e09824dea0f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8defbf8b5d0a406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a10e3c060116ecd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MPEP 700.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "929b50a8efbbf064",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MPEP 700.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a0c1b1f7e09f841",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c794c6bdf457bef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MPEP 700.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1a10e3c060116ecd",
+  "lastOpenFiles": [
+    "ReadMe.md",
+    "MPEP 700.md",
+    "MPEP 2100.md",
+    "MPEP 1400.md",
+    "MPEP 600.md",
+    "MPEP 200.md",
+    "Skeleton.md"
+  ]
+}
