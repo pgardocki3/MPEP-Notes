@@ -22,4 +22,4 @@ Start: June 17
 * OSiA - Ordinary Skilled in the Art
 * BRI - Broadest Reasonable Interpretation
 * EFD - Effective Filling Date
-* OA- Office Action
+* OA - Office Action
