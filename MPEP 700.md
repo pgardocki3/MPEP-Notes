@@ -361,4 +361,8 @@
 		* if rejected, only option is to file for continuation
 		* after payment of issue fee, no amendments are allowed except in conjunction with a withdrawal from issue
 	* ## 17. Asserting an Exception under AIA §102(b) using 37 CFR 1.130
-		* 
+		* under 37 CFR 1.130(a) affidavit or declaration of attribution can be submitted to disqualify disclosure as prior art cus it was made by inventor/ joint or anyone who obtained the subject matter in/directly from inventor(s) 
+		* under 37 CFR 1.130(b), declaration can disqualify intervening third-party if:
+			* had been publicly disclosed by inventor(s) before disclosure date
+			* subject matter disclosed had been public before before date the subject mater was effectively filed
+		* way to support 35 USC §102(b)(1)(A)
