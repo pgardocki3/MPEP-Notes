@@ -387,3 +387,6 @@
 		* 'Secondary Considerations' - objective indications that invention is not obvious
 			* unexpected results
 			* commercial success, failure of others, copying by others, licensing, skepticism of experts
+
+## Prime Questions
+1) b 706.01
