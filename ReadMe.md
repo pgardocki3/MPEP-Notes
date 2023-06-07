@@ -10,12 +10,11 @@
 
 
 # 10 Week plan
-* 1 hour Mon-Fri
-* 3 hours Sat-Sun
-* Total ~ 110 hours of study
+Start: June 17
+* 2 hours Mon-Fri = 80 hrs
+* 3 hours Sat-Sun = 48
+* Total ~ 128 hours of study
 ### Deadline : August 21
-
-test
 
 
 
