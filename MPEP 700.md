@@ -365,4 +365,25 @@
 		* under 37 CFR 1.130(b), declaration can disqualify intervening third-party if:
 			* had been publicly disclosed by inventor(s) before disclosure date
 			* subject matter disclosed had been public before before date the subject mater was effectively filed
-		* way to support 35 USC §102(b)(1)(A)
+		* ### Disclosure by Inventor
+			* §102(b)(1)(A) allows for grace period disclosure exception of prior art under §102(a)(1) if disclosure was made by inventor(s)
+		* ### Subject Matter Previously Disclosed
+			* §102(b)(1)(B) allows for grace period disclosure exception of prior art under §102(a)(1) if subject matter before disclosed was publicly disclosed by inventor(s)
+			* §102(b)(2)(B) allows for grace period disclosure exception of prior art under §102(a)(2) if subject matter before being effectively filed was publicly disclosed by inventor(s)
+		* ### By Another who Obtained Subject Matter in/directly from Inventor
+			* §102(b)(1)(A), §102(b)(1)(B), §102(b)(2)(A), §102(b)(2)(B),
+		* ### Enablement
+			* no need to show that disclosure was 'enabling'
+	* ## 18. Joint Research Agreements
+		* 35 USC §102(c) has 3 conditions for subject matter to be treated as being owned by same person/ subject to obligation of assignment
+			* subject matter must have been developed and invention made by one or more parties to a joint research agreement that was in effective before EFD
+			* claimed invention must be made as a result of activities undertaken within scope of joint research agreement
+			* app for patent must disclose names of parties of joint research agreement
+	* ## 19. Swearing back under 1.131 (for pre-AIA §102(a) and (e) only)
+		* initially examiner has no idea of invention date so assumed filing date is invention date unless applicant 'swears back' by submitting affidavit/ declaration:
+			* actual reduction to practice
+			* conception and diligence from critical date to actual reduction to practice
+	* ## 20. Affidavit Practice under CFR 1.132
+		* 'Secondary Considerations' - objective indications that invention is not obvious
+			* unexpected results
+			* commercial success, failure of others, copying by others, licensing, skepticism of experts
