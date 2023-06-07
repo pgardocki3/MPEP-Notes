@@ -124,7 +124,7 @@
 		* use of known technique to improve similar device
 		* applying a known technique to know device to yield predictable results
 		* 'obvious to try'- choose from finite # of solutions, with reasonable time
-		* known work in one field can prompt variation in same ot different field 
+		* known work in one field can prompt variation in same or different field 
 		* teaching, suggestion, motivation (TSM test) in prior art that would lead one OSiA to modify prior art 
 	* #### Defeating a §103 rejection
 		* examiner has burden to establish *prima facie* case of obviousness
