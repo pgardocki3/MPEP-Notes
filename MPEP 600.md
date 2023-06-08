@@ -96,4 +96,40 @@
 		* miscellaneous Oath/Declaration Facts
 			* any new inventor in continuing app must provide an oath/declaration
 * ## 6. Notice of Omitted Items
-	* 
+	* PTO will send a Notice of Omitted items noting error(s), upon submitting missing documents, filing date becomes date of submission of final missing item
+	* upon receipt of Notice, 2 options
+		* file a petition and fee, with omitted items, copy of Notice requesting later filing date be awarded. sets a non-statutory 2 month period
+		* do nothing in response and inform PTO. this maintains original filing date. now required to amend the application without adding new matter.
+* ## 7. Claims
+	* an assertion of the thing or step which patentee believes is entitled to prevent others from use
+	* claim can be amended, cancelled
+	* claims can be directed to apparatus, method, or composition
+	* infringement if each and every claim limitation, element or step is present in prior art
+	* ### Punctuation and Capitalization
+		* only first word is capitalized in each claim
+		* divided by a ':' into 'preamble' (describes the thing/step) and 'body' (sets forth the elements or steps and limitations)
+		* preceding the ':' 'comprising' or 'consisting'
+			* 'comprising' - list defines the minimum for infringement. can infringe if there are more
+			* 'consisting of' - list defines exact combination that must be present. if more are present, no infringement
+		* each element separated by ';' or ','
+		* second-to-last element has an 'and' after ';'
+		* '.' ends the claim
+	* ### Means Clauses
+		* 112(f) allows for "means plus function" claims
+		* 'means' elements are each defined as covering the corresponding element in specification and its equivalent
+		* drafter has option of using 'means plus function' claims
+	* ### Method vs Apparatus
+		* apparatus claims a combination of elements
+		* method claim covers a combination of steps
+	* ### Independent vs Dependent
+		* dependent claims refer to earlier claim and adds something to combination of said claim
+	* ### *Markush* Groups
+		* defines a claim limitation where no generic term to describe a group of things.
+		* usually use "chosen from the group consisting of"
+	* ### Jepson Claims
+		* have a preamble defining what is 'old', a body defining what is new and a transition phrase such as 'the improvement comprising'
+	* ## Multiple Dependent Claims
+		* a multiple dependent claim cannot depend from another multiple dependent claim
+		* a multiple dependent claim can depend on more than one previous claim in the alternative only ("or" only)
+		* for calculating fee, each proper multiple dependent claim counts as number of claims it depends on, and improper multiple dependent claims count as single claim
+		* 
