@@ -132,4 +132,40 @@
 		* a multiple dependent claim cannot depend from another multiple dependent claim
 		* a multiple dependent claim can depend on more than one previous claim in the alternative only ("or" only)
 		* for calculating fee, each proper multiple dependent claim counts as number of claims it depends on, and improper multiple dependent claims count as single claim
-		* 
+		* counting claims method
+			* circle each independent claim
+			* create dependency tree
+			* underline all multiple dependent claims
+			* box around improper multiple dependent claims
+			* count each number not in a box each time it appears
+			* count each number in box once
+* ## 8. Incorporation by Reference
+	* app may incorporate 'essential' material by reference to 
+		* issued us patent
+		* published app
+	* essential material cannot be incorporated from 
+		* foreign patent/app
+		* publication
+		* us patent which itself incorporates by reference essential material from another patent
+	* 'essential' if necessary to comply with statutory requirements of disclosure
+	* non-essential subject matter may be incorporated from publication or foreign patents
+	* use language 'incorporate' and 'reference'
+* ## 9. Form and Completeness of Specifications
+	* no mandated form
+	* PTO recommends
+		* Title
+		* Cross reference to related app
+		* Statement regarding Federally funded research
+		* names of parties to joint research agreement
+		* reference to an incorporated by reference sequence listing
+		* background of invention
+		* brief summary of invention
+		* brief description of drawings
+		* detailed description
+		* claims
+		* abstract of disclosure
+		* sequence listing
+		* drawings
+		* oath/declaration
+* ## 10. Abstract
+	* 
