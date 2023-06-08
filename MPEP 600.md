@@ -71,4 +71,29 @@
 		* #### Correcting Inventorship and Updating an ADS
 			* ADS, inventor oath/declaration can be corrected/updated until payment of issue fee
 * ## 4. Inventorship
-	*  
+	* ### Claim by Claim
+		* inventorship is determined on a claim by claim basis
+		* joint inventor if contributed to at least one claim and only need to contribute to conception
+* ## 5. Correcting Inventorship
+	* has to be an error
+	* PTO can change list of inventors for issued or pending apps
+	* ### post-AIA ; §1.48
+		* nonprovisional patent apps
+			* any request to change/correct inventorship must contain
+				* signed ADS that identifies each inventor by legal name with address information, and
+				* fee
+		* provisional patent apps
+			* any request to change/correct inventorship must contain
+				* request signed by party to correct inventorship that identifies each inventor by legal name and
+				* fee
+		* special circumstances
+			* reissue: §§1.171 and 1.175
+			* issued patent: § 1.324
+			* case before PTAB: in interference-41.121(a)(2)/ contested-42.22
+		* continuing applications
+			* newly executed oath/declaration or substitute statement not required
+			* if, earlier filed app had such a document and a copy is attached to continuing app
+		* miscellaneous Oath/Declaration Facts
+			* any new inventor in continuing app must provide an oath/declaration
+* ## 6. Notice of Omitted Items
+	* 

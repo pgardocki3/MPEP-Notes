@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7123a70e2bb06475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MPEP 700.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9f78e05ddd15859c",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +163,8 @@
   "active": "3488ca576c07bb82",
   "lastOpenFiles": [
     "ReadMe.md",
-    "MPEP 600.md",
     "MPEP 700.md",
+    "MPEP 600.md",
     "Untitled.md",
     "Skeleton.md",
     "Untitled 1.canvas",

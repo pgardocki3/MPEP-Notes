@@ -6,12 +6,12 @@
 
 ## Study Plan
 * Go through PLI Binder and taking outline notes
-* Order Patent Bar Study Flashcards
+* Do each question in PES question books
 
 
 # 10 Week plan
 Start: June 17
-* 2 hours Mon-Fri = 80 hrs
+* 2 hours Mon-Fri = 80 
 * 3 hours Sat-Sun = 48
 * Total ~ 128 hours of study
 ### Deadline : August 21
