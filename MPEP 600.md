@@ -168,4 +168,43 @@
 		* drawings
 		* oath/declaration
 * ## 10. Abstract
-	* 
+	* can be amended into the specifications/claims without violating new matter rule
+* ## 11. Substitute Specification
+	* PTO can request if number of amendments make it difficult to examine or print patent. 
+	* accompanied by:
+		* statement that substitute specifications contain no new matter
+		* marked-up copy of the substitute specifications showing the additions an deletions
+	* not allowed in reissue or reexam
+* ## 12. Drawings
+	* must show everything that is claimed, unless element is conventional and unnecessary
+	* color accepted only after petition explaining need of color
+* ## 13. Models or Exhibits
+	* PTO may require a model, and can only submit 'at applicants discretion via petition explaining its necessity'
+	* applicant must maintain model for life of patent
+* ## 14. Information Disclosure Statement (IDS)
+	* information is material if it alone or in combination makes for a good rejection
+	* preferred way to disclose possible material information to PTO
+	* ### Timing
+		* if filed within 3 months of app filing or before first action, only IDS need to be filed 
+		* if filed after first action, but before allowance or final, either a statement or fee must be provided
+		* if filed after final, close of prosecution or allowance, but before payment of issue fee, a statement and issue fee are required
+	* ### Statement
+		* each item disclosed was cited for the first time in a communication from a foreign patent office less than 3 months before the date of IDS, OR
+		* no item was cited in a communication from a foreign office and no item was known to anyone having a duty to disclose more than 3 months before the date of IDS
+	* ### Minimum Content
+	* every IDS must have:
+		* list of individual items submitted with patents identified by patentee, number and issue date; and publications identified by author, title, relevant pages, date, place of publication
+		* copy of every patent, publication, or other information being submitted
+	* ### Summary
+		* 'duty' extends not only to attorney and inventor but everyone else associated with prosecution. 
+		* information required to be disclosed includes info whether or not obtained in conjunction with particular app in issue
+		* breach of duty to disclose will result in refusal to grant patent
+			* even if breach was by others other than inventors
+		* time of filing of IDS can not be extended
+		* info required to be disclosed extends to all §102 acts
+		* when material prior art is discovered after issue fee is paid, proper course is to seek withdrawal of app from issue so it may be considered for continuation application
+		* non-complying IDS will be placed in file but not considered
+* ## 15. Requirements for Information
+	* examiner may require the submission of Requirements for Information to seek any info reasonably necessary to properly examine or treat a matter
+	* ### Reasonable Necessity
+		* 
