@@ -206,5 +206,3 @@
 		* non-complying IDS will be placed in file but not considered
 * ## 15. Requirements for Information
 	* examiner may require the submission of Requirements for Information to seek any info reasonably necessary to properly examine or treat a matter
-	* ### Reasonable Necessity
-		* 
