@@ -8,6 +8,7 @@
 ## Study Plan
 * Go through PLI Binder and taking outline notes
 * Do each question in PES question books
+	* MINIMUM 10 Q per day 
 
 
 # 10 Week plan
