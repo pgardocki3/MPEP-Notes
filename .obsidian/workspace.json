@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f78e05ddd15859c",
+            "id": "05db6e9970090e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MPEP 1800.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MPEP 1400.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05db6e9970090e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe.md",
+                "file": "MPEP 1800.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a468e09824dea0f9",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "MPEP 1800.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "MPEP 1800.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "MPEP 1800.md"
               }
             }
           }
@@ -171,15 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05db6e9970090e85",
+  "active": "3488ca576c07bb82",
   "lastOpenFiles": [
-    "MPEP 1400.md",
-    "MPEP 700.md",
-    "MPEP 600.md",
-    "MPEP 200.md",
-    "MPEP 1800.md",
-    "ReadMe.md",
     "MPEP 2100.md",
+    "ReadMe.md",
+    "MPEP 1400.md",
+    "MPEP 600.md",
+    "MPEP 700.md",
+    "MPEP 1800.md",
+    "MPEP 200.md",
     "Skeleton.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
