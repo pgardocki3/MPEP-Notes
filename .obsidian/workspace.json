@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "MPEP 1800.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MPEP 1800.md",
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MPEP 1800.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MPEP 1800.md"
+                "file": "ReadMe.md"
               }
             }
           }
@@ -160,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3488ca576c07bb82",
+  "active": "05db6e9970090e85",
   "lastOpenFiles": [
+    "MPEP 1800.md",
     "MPEP 2100.md",
     "ReadMe.md",
     "MPEP 1400.md",
     "MPEP 600.md",
     "MPEP 700.md",
-    "MPEP 1800.md",
     "MPEP 200.md",
     "Skeleton.md",
     "Untitled 1.canvas",
