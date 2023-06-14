@@ -12,4 +12,39 @@
 	* 'reduction to practice' does not alter inventorship
 	* corrections to inventorship can be made
 * ## Provisional Applications
+	* claimless, unexamined, temporary
+	* specifications must satisfy §112(a), and include drawings
+	* fee, but no oath/declaration is required
+	* IDS are not permitted
+		* Elements:
+			* Cover sheet identifying:
+				* application as provisional
+				* names of inventor(s)
+				* residence of inventor(s)
+				* title of invention
+				* name and reg # of attorney/agent
+				* docket number of filer
+				* correspondence address
+				* specifications
+				* drawings
+				* filing fee
+			* if missing elements, Notice of Missing Parts is sent and given 2 months to file
+	* #### Utility Applications
+		* if utility app is filed within 12 months after Provisional, can take priority date of provisional
+		* at least one common inventor
+		* if nonprovisional is not filed within 12 months, and is unintentional, can be filed within 14 months and have priority to provisional with payment of fee
+	* #### Miscellaneous
+		* amendments are not permitted
+		* cannot be used for design patents, or interference or claim foreign priority
+	* #### Conversion
+		* non-provisional app can be converted to provisional with filing of petition and fee given request is made within 1 year of filing
+		* can treat provisional as non-provisional if requested
+	* #### The "Seven NO's"
+		* no claims
+		* no oath/declaration
+		* no design apps
+		* no possible claim for priority from other apps
+		* no IDS
+		* no basis for priority for design app
+* ## Substitutes, Divisions, Continuations, and CIPs
 	* 
