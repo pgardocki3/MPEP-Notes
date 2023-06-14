@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "df1beb6e19f5a097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MPEP 100.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fc8aa4e57f99abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MPEP 200.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea58ffd39ffabc72",
             "type": "leaf",
             "state": {
@@ -30,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a468e09824dea0f9",
@@ -96,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2100 Summary.pdf",
+                "file": "MPEP 200.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2100 Summary.pdf",
+                "file": "MPEP 200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2100 Summary.pdf"
+                "file": "MPEP 200.md"
               }
             }
           }
@@ -157,11 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea58ffd39ffabc72",
+  "active": "3780946ee2d39f95",
   "lastOpenFiles": [
     "MPEP 100.md",
-    "2100 Summary.pdf",
+    "MPEP 200.md",
     "ReadMe.md",
+    "2100 Summary.pdf",
+    "Patent Bar Glossary.pdf",
     "MPEP 1800.md",
     "MPEP 2100.md",
     "MPEP 1400.md",
