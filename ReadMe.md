@@ -11,7 +11,7 @@
 	* MINIMUM 10 Q per day 
 	* 1st Volume: In order
 	* 2nd Volume: Determine weaknesses
-	* 3rd Volume:
+	* 3rd Volume: ...
 
 
 # 10 Week plan
