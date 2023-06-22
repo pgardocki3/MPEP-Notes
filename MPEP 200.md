@@ -74,3 +74,10 @@
 	* right to obtain benefit of filing date of an earlier US or foreign app
 	* 35 USC §120 - domestic priority
 	* 35 USC §119 - foreign priority
+	* determine EFD on claim by claim basis
+	* ### Foreign Priority
+		* must be filed within 12 months of parent app 
+		* foreign priority can create prior art under 102(a)(2) if eventually becomes published or issued US app, PCT app
+	* ### Restoration of Rights
+		*  US app can be filed up to 14 months after foreign filing and get priority restored for a fee
+		* 
