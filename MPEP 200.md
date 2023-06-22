@@ -62,4 +62,13 @@
 			* not a continuing app
 	* ### Timing of Continuing Applications, Co-pendency
 		* can be done at any time of prosecution or appeal if parent is still pending
-		* 
+		* can claim priority date of parent app
+	* ### Continued Prosecution Application (CPA)
+		* only for design apps
+		* follows rule 1.53(d)
+		* the file of parent is continued, the parent is abandoned and the CPA has the same serial number as parent and there is no reference to parent app
+	* ### Naming of Inventors
+		* no longer needed to obtain a filing date for apps pursuant to Rules 1.41 and 1.53
+	* ### Reference Filling
+* ## Priority
+	* 
