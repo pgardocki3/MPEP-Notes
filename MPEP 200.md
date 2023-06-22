@@ -47,4 +47,19 @@
 		* no IDS
 		* no basis for priority for design app
 * ## Substitutes, Divisions, Continuations, and CIPs
-	* 
+	* ### Varieties of Apps
+		* Regular 'Standard' Utility Application
+		* Continuation - app filed by same applicant for same invention claimed in prior, non-provisional app and filed before original app becomes abandoned or patented
+			* co-pending and include continuations, continuations-in-part and divisional apps
+			* usually filed to start fresh after Final rejection, rather than appealing 
+			* no new oath required to file continuation
+		* Continuation-in-part - (CIP) 
+			* similar to Continuation with repeating good portion of parent app but adds new matter 
+			* can only be filed under Rule 1.53b
+		* Divisional - late app that is carved out for a distinct and independent invention from pending app
+			* must be co-pending
+		* Substitute - same disclosure as earlier app
+			* not a continuing app
+	* ### Timing of Continuing Applications, Co-pendency
+		* can be done at any time of prosecution or appeal if parent is still pending
+		* 
