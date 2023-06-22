@@ -71,4 +71,6 @@
 		* no longer needed to obtain a filing date for apps pursuant to Rules 1.41 and 1.53
 	* ### Reference Filling
 * ## Priority
-	* 
+	* right to obtain benefit of filing date of an earlier US or foreign app
+	* 35 USC §120 - domestic priority
+	* 35 USC §119 - foreign priority
